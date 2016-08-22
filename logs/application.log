@@ -1,0 +1,11 @@
+2016-08-22 11:59:49,838 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2016-08-22T06:29:49.837Z
+2016-08-22 11:59:50,020 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-08-22 12:13:51,661 [INFO] from application in application-akka.actor.default-dispatcher-5 - ApplicationTimer demo: Stopping application at 2016-08-22T06:43:51.661Z after 842s.
+2016-08-22 12:13:51,783 [INFO] from application in application-akka.actor.default-dispatcher-5 - ApplicationTimer demo: Starting application at 2016-08-22T06:43:51.783Z
+2016-08-22 12:13:51,858 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-5 - Application started (Dev)
+2016-08-22 12:14:15,878 [INFO] from application in application-akka.actor.default-dispatcher-2 - ApplicationTimer demo: Stopping application at 2016-08-22T06:44:15.877Z after 24s.
+2016-08-22 12:14:16,016 [INFO] from application in application-akka.actor.default-dispatcher-2 - ApplicationTimer demo: Starting application at 2016-08-22T06:44:16.016Z
+2016-08-22 12:14:16,084 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-2 - Application started (Dev)
+2016-08-22 12:14:43,364 [INFO] from application in application-akka.actor.default-dispatcher-8 - ApplicationTimer demo: Stopping application at 2016-08-22T06:44:43.364Z after 27s.
+2016-08-22 12:14:43,456 [INFO] from application in application-akka.actor.default-dispatcher-8 - ApplicationTimer demo: Starting application at 2016-08-22T06:44:43.456Z
+2016-08-22 12:14:43,534 [INFO] from play.api.Play in application-akka.actor.default-dispatcher-8 - Application started (Dev)
